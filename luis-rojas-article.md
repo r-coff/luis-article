@@ -18,6 +18,9 @@ This unstable civil situation had a profound impact on the city that went beyond
 
 Luis discovered web development when he was interning at the only electrical company in Mexico. He used HTML, CSS and PHP on some of their projects but soon left the professional web development sphere as he pursued a career in an unrelated field for the next five years. He still kept his connection to development alive by watching tutorials and building pet projects in his spare time. In 2014, having witnessed the terrible societal impact that the situation in his city had on the people around him, Luis was inspired to use his abilities to alleviate the social issues around him. He later learned that this is called social entrepreneurship and had found his true calling in this field.
 
+> "Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work.”
+> - Vince Lombardi
+
 Luis aims to harness the power of the web to eradicate problems his city faces in the areas of security, economics and education among others. He realizes the impact the web can make to his city and is determined to see it realized. He dreams of setting up a web development agency and one of his grand ideas involves building a platform to unite professionals like him who wish to use their skills to help the social problems in the city. Keeping that at the forefront of his mind, he patiently works away at his daytime job and the assignments here at Modern Developer. He knows the safety he lives in at the moment may not last but is eager to make the most of it while it does.
 
 ![](http://i.imgur.com/f2dc4YL.jpg)
