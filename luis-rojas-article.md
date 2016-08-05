@@ -37,7 +37,7 @@ Luis aims to harness the power of the web to eradicate problems his city faces i
 
 In his spare time, Luis likes to relax with his family and friends, and he's quite the soccer aficionado. One of his early dreams was to be a professional soccer player, but despite being praised for his talent on the field, circumstances did not permit him to do so. These days, he enjoys playing a variant of traditional soccer, called Uruguay soccer (played with seven members on each team), which he plays regularly with his friends. In fact, there's currently a tournament going on in his city that he's enjoying. He and two of his best friends also maintain a YouTube channel on which they talk about La Liga MX, a soccer league in Mexico. His sports interests extend beyond soccer as well. He loves the NFL and his favorite team is the Dallas Cowboys, Roger Federer is his favorite Tennis player and he also enjoys watching baseball and basketball.
 
-Apart from sports, he also enjoys playing video games and likes brewing his own beer. *"Maybe there's something entrepreneurial I can make out of this too...*, he jests. 
+Apart from sports, he also enjoys playing video games and likes brewing his own beer. *"Maybe there's something entrepreneurial I can make out of [the beer] too..."*, he wonders. 
 
 ![](http://i.imgur.com/JbhlheH.jpg)
 
