@@ -27,7 +27,11 @@ In 2014, having witnessed the terrible societal impact that the situation in his
 > "Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work.”
 > - Vince Lombardi
 
-Luis aims to harness the power of the web to eradicate problems his city faces in the areas of security, economics, and education among others. He realizes the impact the web can make to his city and is determined to see it come to fruition. He dreams of setting up a web development agency and one of his grand ideas involves building a platform to unite professionals who,  like him, wish to use their skills to help the social problems in the city. Keeping that at the forefront of his mind, he patiently works away at his daytime job and the assignments here at Modern Developer. He has a keen understanding that the current illusion of safety in the community may be fleeting, and he is eager to make the most of it while it lasts.
+Luis aims to harness the power of the web to eradicate problems his city faces in the areas of security, economics, and education among others. He sees the web as a facilitator of change that has been sorely under-utilized in Mexico. The first step of his dream is to organize a platform where professionals from other disciplines like teachers, psychologists and doctors can co-ordinate and meet up regularly to present social issues that they have experienced to software developers in his city. The engineers will then work with these professionals to design and develop mobile and web applications to support these causes - quite like a hackathon, but for social entrepreneurs. The goal is to enable the professionals to work more efficiently and focus on solving their respective core issue as opposed to being inundated with outdated systems and red tape as they currently do. 
+
+Ultimately, he sees this being turned into a powerful movement, supported by the power of the web, where social entrepreneurs can freely share their successes and failures to aid these kinds of developmental efforts in other locales as well.
+
+Keeping that at the forefront of his mind, he patiently works away at his daytime job and the assignments here at Modern Developer. He has a keen understanding that the current illusion of safety in the community may be fleeting, and he is eager to make the most of it while it lasts.
 
 ![](http://i.imgur.com/f2dc4YL.jpg)
 
